@@ -5,6 +5,9 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.glb filter=lfs diff=lfs merge=lfs -text
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
 /Plugins/CesiumForUnreal/Source/ThirdParty/lib/Android-aarch64-Release/libdraco.a filter=lfs diff=lfs merge=lfs -text
 /Plugins/CesiumForUnreal/Source/ThirdParty/lib/Android-aarch64-Release/libs2.a filter=lfs diff=lfs merge=lfs -text
 /Plugins/CesiumForUnreal/Source/ThirdParty/lib/Windows-AMD64-Release/draco.lib filter=lfs diff=lfs merge=lfs -text
