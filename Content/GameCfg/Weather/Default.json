@@ -1,0 +1,9 @@
+{
+  "WeatherAreas": [],
+  "CloudDensity": 0.5,
+  "RainLevel": 0,
+  "SnowLevel": 0,
+  "FogDensity": 0.2,
+  "WindIntensity": 1.0,
+  "Visibility": 10000
+}
